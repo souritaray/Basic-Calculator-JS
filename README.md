@@ -1,6 +1,6 @@
 # Basic-Calculator-JS
 
-![shield](https://img.shields.io/badge/-Javascript-yellow)
+![shield](https://img.shields.io/badge/-Javascript-indigo)
 
 This is a basic calculator web-app which helps you to perform basic arithmatic operations. It is done with the help of HTML, CSS and JAVASCRIPT. Go check it out.
 
